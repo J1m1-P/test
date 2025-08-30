@@ -1,0 +1,1 @@
+print("Salute World")
